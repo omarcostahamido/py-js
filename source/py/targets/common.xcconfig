@@ -1,6 +1,6 @@
 #include "../../maxmspsdk.xcconfig"
 
-MAJ_VER = 3.9
+MAJ_VER = 3.7
 MIN_VER = 2
 VERSION = $(MAJ_VER)
 SEMVER = $(MAJ_VER).$(MIN_VER)
