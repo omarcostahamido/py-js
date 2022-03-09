@@ -2,6 +2,7 @@
 **/project.xcworkspace
 **/xcshareddata
 javascript/node_modules
+python3.7m
 
 .DS_Store
 __pycache__
