@@ -61,7 +61,7 @@ class Project:
     lib = build / "lib"
 
     homebrew = (
-        Path("/usr/local/opt/python3/Frameworks/Python.framework/Versions")
+        Path("/Library/Frameworks/Python.framework/Versions")
         / py_ver
     )
 

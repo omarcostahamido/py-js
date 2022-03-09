@@ -67,7 +67,7 @@ PREFIX=${SUPPORT}/${PYTHON_NAME}
 BIN=${PREFIX}/bin
 LIB=${PREFIX}/lib/${PYTHON_NAME}
 
-HOMEBREW=/usr/local/opt/python3/Frameworks/Python.framework/Versions/${PYTHON_VER}
+HOMEBREW=/Library/Frameworks/Python.framework/Versions/${PYTHON_VER}
 
 function cp_pkg() {
 	echo "copying $1"
