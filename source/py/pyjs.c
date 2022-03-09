@@ -2,7 +2,7 @@
 #include "ext_obex.h"
 
 #define PY_SSIZE_T_CLEAN
-#include <Python.h>
+#include "python3.7m/Python.h"
 
 #if defined(__APPLE__) && defined(PY_STATIC_EXT)
 #include <CoreFoundation/CoreFoundation.h>

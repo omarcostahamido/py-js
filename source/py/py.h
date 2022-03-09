@@ -12,7 +12,7 @@
 
 /* python */
 #define PY_SSIZE_T_CLEAN
-#include <Python.h>
+#include "python3.7m/Python.h"
 /*--------------------------------------------------------------------------*/
 // CONSTANTS
 

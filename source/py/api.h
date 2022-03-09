@@ -3,7 +3,7 @@
 #ifndef __PYX_HAVE__api
 #define __PYX_HAVE__api
 
-#include "Python.h"
+#include "python3.7m/Python.h"
 
 #ifndef __PYX_HAVE_API__api
 
